@@ -8,7 +8,7 @@ Data Scientist and Machine Learning Engineer
 *   ✉️  You can contact me at [emoekabuoshomah@gmail.com](mailto:emoekabuoshomah@gmail.com)
 *   🧠  I'm presently educating myself on bioinformatics, nanotech, and the biomedical sciences. I am also presently collaborating on a number of cool, interesting projects at the moment.
 *   🤝  I'm open to collaborating on any interesting and meaningful projects.
-*   ⚡  I'm a sporting enthusiast, specifically for boxing and MMA. For some reason, I really love Mohammed Ali, even though I'm far too young to have ever seen him fight. Weird, I know.
+*   🥊  I'm a sporting enthusiast, specifically for boxing and MMA. For some reason, I really love Mohammed Ali, even though I'm far too young to have ever seen him fight. Weird, I know.
 
 ### Skills
 
