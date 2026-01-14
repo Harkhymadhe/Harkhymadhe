@@ -34,6 +34,8 @@ Data Scientist and Machine Learning Engineer
 
 <b>My GitHub Stats</b>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Harkhymadhe)](https://git.io/streak-stats)
+
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" rel="noreferrer"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Harkhymadhe" width="1000" height="720" alt="Harkhymadhe's Github Activity Graph" /></a>
 
 ![Harkhymadhe's Github Activity Overview](https://raw.githubusercontent.com/harkhymadhe/github-stats/master/generated/overview.svg#gh-dark-mode-only)
