@@ -32,9 +32,7 @@ Data Scientist and Machine Learning Engineer
 
 <b>My GitHub Stats</b>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arkhymadhe&show_icons=true)
-
-![GitHub Trends](https://api.githubtrends.io/user/svg/Arkhymadhe/repos?time_range=one_year&include_private=True&theme=bright_lights)
+[![Benedict's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harkhymadhe)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <a href="http://www.github.com/Arkhymadhe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkhymadhe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
