@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist and Machine Learning Engineer
 --------------------------------------------
 
-*   🌍  I'm based in Benin-City, Nigeria.
+*   🌍  I'm based in Lagos State, Nigeria.
 *   ✉️  You can contact me at [emoekabuoshomah@gmail.com](mailto:emoekabuoshomah@gmail.com)
 *   🧠  I'm presently educating myself on bioinformatics, nanotech, and the biomedical sciences. I am also presently collaborating on a number of cool, interesting projects at the moment.
 *   🤝  I'm open to collaborating on any interesting and meaningful projects.
